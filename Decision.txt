@@ -1,0 +1,326 @@
+// Reference=MNI
+// Allen, 2016: VOI Results (Decision Sensitivity) 
+// Subjects=48
+37	42	22
+10	-58	8
+9	-64	24
+37	42	22
+
+// Allen, 2016: Whole Brain Results (Decision Sensitivity) 
+// Subjects=48
+-31	-25	-14
+1	-69	11
+-51	-48	2
+14	-38	-5
+-26	-36	-13
+
+// Baird, 2013: Connectivity with aPFC for perception (Decision Sensitivity)
+// Subjects=52
+8	42	42
+12	-12	6
+-24	14	8
+
+// Baird, 2015: White matter microstructure associated with metacognitive ability in perception (Decision Sensitivity) 
+// Subjects=38
+12	30	33
+
+// Barttfeld, 2013: Regression to type-II performance, top 15 ROIs (Decision Sensitivity) 
+// Subjects=25
+-11	45	17
+9	51	16
+-42	7	36
+42	48	-3
+54	-44	43
+-47	-12	36
+-55	-44	30
+44	-52	47
+-35	-46	48
+-5	-52	17
+-52	28	17
+40	36	29
+-54	-9	23
+-11	-58	17
+-11	45	17
+
+// Chen, 2013: Brain regions exhibiting significant activation in association with decision confidence process (Decision Parametric)  
+// Subjects=20
+-27.28	-49.17	52.29
+10.79	4.99	-1.9
+-10.8	5.02	-.42
+-33.55	24.19	-.81
+32.36	23.36	-1.85
+-2.45	47.72	-14.87
+-4.91	-54.78	25.57
+-2.27	56.73	1.05
+-18.01	47.02	35.89
+-16.66	27.21	53.52
+-47.05	-54.93	26.3
+-63.63	-35.89	1.17
+51.48	.21	-32.38
+62.41	-7.54	-23.95
+-60.71	-7.66	-18.48
+34.3	-27.06	55.78
+
+// De Martino B, 2013: Confidence increase (Decision Parametric) 
+// Subjects=20
+12	47	-11
+-3	-46	34
+
+// De Martino B, 2013: Confidence decrease (Decision Parametric)
+// Subjects=20
+9	17	40
+-48	11	-2
+51	8	4
+-6	-10	7
+27	47	28
+
+// Fleming, 2010: GM associated with Aroc (Decision Sensitivity)  
+// Subjects=31
+-20	53	12
+36	39	21
+33	50	9
+-56	-30	-26
+-63	-30	10
+51	-33	-21
+-41	-3	-48
+
+// Fleming, 2010: FA associated with Aroc (Decision Sensitivity)
+// Subjects=31
+2	26	-2
+29	-55	-2
+-32	-67	0
+-32	-55	14
+35	-52	-15
+-18	-52	28
+
+// Fleming S M, 2012: Report>follow (Decision Judgement-Related)
+// Subjects=23
+-3	14	46
+36	44	28
+
+// Fleming S M, 2012: Negative correlation with reported confidence (Decision Parametric)
+// Subjects=23
+30	2	64
+15	-73	43
+-33	44	28
+27	53	25
+
+// Harsay H A, 2012: aware>unaware (Decision Parametric)
+// Subjects=14
+34	18	-12
+50	8	-4
+54	-26	44
+-46	-28	50
+10	-24	10
+-8	-22	8
+8	-30	-8
+2	26	16
+-2	26	16
+4	20	36
+-4	32	32
+6	8	56
+-6	6	60
+4	-68	42
+52	12	20
+-48	12	22
+20	-4	70
+-28	-26	70
+-50	-44	50
+40	-48	50
+36	-58	40
+-32	-60	40
+
+// Harsay H A, 2017: Aware>Unaware (Decision Parametric and Judgement-Related) 
+// Subjects=23
+34	18	-1250	8	-454	-26	44-46	-28	5010	-24	10-8	-22	88	-30	-82	26	16-2	26	164	20	36-4	32	326	8	56-6	6	604	-68	4252	12	20-48	12	2220	-4	70-28	-26	70-50	-44	5040	-48	5036	-58	40-32	-60	-40
+
+// Harsay H A, 2017: Aware>Unaware connectivity with insult (Decision Parametric and Judgement-Related)
+// Subjects=23
+56	-22	44-46	-34	5650	-38	36-40	-40	30
+
+// Hebart M N, 2016: Brain regions where activity is related to confidence (Decision Parametric)  
+// Subjects=18
+-9	9	-3
+9	9	-3
+-9	15	54
+33	27	3
+45	6	45
+51	18	21
+-45	6	48
+-45	21	12
+-21	-54	54
+63	-48	0
+-39	-21	-3
+30	-60	60
+
+// Heereman, 2015: Significant correlations with subjective certainty in color trials (Decision Parametric)  
+// Subjects=20
+21	70	-8
+18	-82	4
+30	-67	-5
+-45	-76	28
+-9	11	49
+-24	-4	52
+-42	-19	52
+-12	-88	-5
+-33	-88	-11
+-24	-91	-14
+-45	14	1
+-51	26	28
+-30	39	4
+36	-43	52
+33	-40	43
+42	-31	31
+45	14	-2
+33	17	4
+54	17	10
+12	-64	52
+33	38	28
+27	47	28
+51	29	28
+
+// Heereman, 2015: Significant correlations with subjective certainty in motion trials (Decision Parametric)
+// Subjects=20
+-45	-70	25
+-48	-73	37
+15	-85	1
+12	-76	-8
+24	-73	-11
+-3	44	-11
+3	35	-11
+-3	44	-20
+-9	-52	31
+-15	-52	13
+-6	-52	7
+-6	8	49
+21	5	67
+24	2	58
+-12	-88	-5
+-15	-85	-14
+-24	-76	-8
+9	-64	49
+15	-76	55
+18	-64	61
+39	-43	46
+36	-49	52
+33	-43	47
+-51	29	25
+
+// Heereman, 2015: Task-independent significant correlations with certainty ratings (Decision Parametric)  
+// Subjects=20
+18	-82	4
+15	-76	-8
+24	-73	-11
+-45	-76	28
+-6	8	49
+-48	-19	55
+15	11	67
+-12	-88	-5
+33	17	4
+45	14	-2
+54	17	10
+39	-43	52
+39	-31	37
+54	-34	46
+
+// Hester R L, 2005: Event-related activation during aware errors (Decision Parametric and Judgement-Related) 
+// Subjects=32
+19	41	37
+-37	36	10
+-40	16	-18
+-46	-50	39
+46	-48	39
+
+// Hester R L, 2009: Aware errors>unaware errors (Decision Parametric and Judgement-Related)
+// Subjects=32
+2	21	36
+41	15	-1
+-41	-25	54
+47	-34	48
+28	-8	57
+28	-10	5
+9	-92	14
+13	-80	-21
+-29	44	24
+
+// Hilgenstock R, 2014: Regions involved in decisional confidence processing (Decision Parametric) 
+// Subjects=24
+38	24	36
+44	29	33
+38	21	48
+-3	32	43
+6	35	43
+20	57	30
+21	50	37
+
+// Klein, 2007: Conscious error awareness (Decision Judgement-Related)  
+// Subjects=13
+-40.06	13.01	-5.19
+
+// Klein, 2007: Error processing (Decision Parametric)   
+// Subjects=13
+2.75	25.9	49.95
+-.87	36.16	22.11
+5.82	37.74	38.64
+30.04	23.27	-14.12
+-43.31	14.06	-5.24
+
+// McCurdy L Y, 2013: meta-d’/d’ for vision (Decision Sensitivity)  
+// Subjects=34
+-12	54	16
+32	50	7
+
+// Orr C, 2012: Greater BOLD for aware then unaware (Decision Judgement-Level and Parametric) 
+// Subjects=56
+-49	-34	50
+49	-49	40
+-51	-47	40
+-1	19	39
+-36	14	2
+44	13	4
+-3	-14	52
+0	-3	61
+
+// Sinnaj I, 2007: Gray matter positive correlation with Mratio (Decision Sensitivity)
+// Subjects=29
+35	-46	14
+32	15	-15
+11	42	49
+39	62	13
+
+// Sinnaj I, 2007: Gray matter negative correlation with Mratio (Decision Sensitivity)
+// Subjects=29
+6	-55	9
+-12	-43	58
+-21	-90	16
+
+// Valk, 2016: MC-P:CT (Decision Sensitivity)  
+// Subjects=151
+10	18	-21
+
+// Valk, 2016: MC-P:FA (Decision Sensitivity) 
+// Subjects=151
+9	52	9
+
+// Wan X, 2016: Post-task activation (Decision Judgement-Related) 
+// Subjects=17
+-28.2	58.87	2.4
+25.8	61.08	.14
+-41.84	35.58	29.59
+39.18	37.99	27.97
+-.61	31.55	41.61
+-46.25	11.88	17.44
+-21.99	9.11	55.4
+23.44	9.68	59.05
+-53.33	-25.01	48.1
+28.73	-31.62	41.76
+-6.68	-61.66	55.42
+6.27	-57.36	54.77
+
+// Wu S, 2015: Reward probability (Decision Parametric)
+// Subjects=19
+-36	30	-6
+12	12	-2
+44	-34	46
+32	22	-8
+-8	36	34

@@ -1,0 +1,388 @@
+// Reference=MNI
+// Baird B, 2013: Connectivity with aPFC for memory (Retrospective Memory Sensitivity) 
+// Subjects=52
+30	-48	36
+8	-48	52
+
+// Baird B, 2013: Differential connectivity with medial and lateral aPFC (Retrospective Memory Sensitivity)  
+// Subjects=52
+34	-28	-16
+18	-22	68
+28	-86	14
+-46	-72	-8
+-26	-38	-16
+-46	-12	22
+
+// Baird, 2015: White matter microstructure associated with metacognitive ability in memory (Retrospective Memory Sensitivity)
+// Subjects=38
+42	-48	27
+
+// Chua E F, 2004: HC-correct vs. LC-correct(Retrospective Memory Parametric)
+// Subjects=16
+-36	27	-3
+-54	24	24
+45	18	21
+12	9	0
+-51	-6	39
+33	-12	-15
+36	-48	-24
+
+// Chua E F, 2004: HC-incorrect vs. LC-incorrect(Retrospective Memory Parametric)
+// Subjects=16
+-42	33	9
+
+// Chua E F, 2006: Conf HC-Correct>Conf LC-Correct (Retrospective Memory Parametric) 
+// Subjects=20
+-30	-39	-15
+36	-30	-18
+36	-12	15
+6	-54	24
+-3	57	-12
+-48	-69	21
+39	-57	12
+27	-39	63
+
+// Chua E F, 2006: Conf HC-Incorrect>Conf LC-Incorrect (Retrospective Memory Parametric)     
+// Subjects=20
+-24	-24	-21
+27	-12	-24
+45	-54	-3
+-9	21	6
+18	33	6
+
+// Chua E F, 2006: Confidence assessment>recognition (Retrospective Memory Judgement-Related)   
+// Subjects=20
+27	63	-6
+-60	-45	27
+15	-51	30
+-12	-81	-12
+40	51	-42
+
+// Chua E F, 2009: ROIs significant for HC in young but not old (Retrospective Memory Parametric)  
+// Subjects=16
+-27	-18	-21
+39	-18	-21
+
+// Chua E F, 2009: ROIs significant for LC compared to HC (Retrospective Memory Parametric)  
+// Subjects=16
+-39	21	24
+39	36	27
+-33	24	-6
+36	24	-9
+0	21	48
+-33	-57	48
+
+
+// Hayes S, 2011: High>Low Confidence (Retrospective Memory Parametric)
+// Subjects=16
+30	-23	-8
+19	0	-15
+-19	0	-11
+-45	-45	30
+-53	-49	45
+4	-79	23
+-11	-79	26
+-11	-45	42
+0	-38	53
+45	-26	-30
+-64	-30	-15
+-19	4	-8
+11	11	-11
+
+// Hayes S, 2011: Low>High Confidence (Retrospective Memory Parametric)
+// Subjects=16
+30	-4	-38
+38	11	-4
+45	19	-4
+53	23	27
+15	-68	53
+-19	-68	46
+-19	-60	57
+-41	8	38
+26	-45	-15
+26	-83	-4
+-4	15	42
+-26	15	68
+4	-94	4
+19	-90	0
+-23	-90	-3
+-49	4	49
+
+// Henson, 2000: Low vs. High Confidence (Retrospective Memory Parametric)
+// Subjects=12
+54	30	24
+
+// Kim H, 2007: HC-TR>LC-TR and LC-FR>HC-FR (Retrospective Memory Sensitivity) 
+// Subjects=11
+-36.86	-31.13	-21.17
+21.36	-34.92	12.05
+52.78	15.91	-23.81
+
+// Kim H, 2007: LC-TR> HC-TR and HC-FR> LC-FR (Retrospective Memory Sensitivity) 
+// Subjects=11
+-43.28	21.81	17.42
+41.28	24.52	32.28
+-7.35	32.51	32.01
+-30.29	-49.62	37.77
+45.8	-42.99	49.08
+
+// Kim H, 2007: True Recognition HC>LC (Retrospective Memory Parametric) 
+// Subjects=11
+29.73	-27.8	-10.69
+-27.34	-28.48	-13.64
+29.59	3.18	-21.69
+-7.48	35.13	-11.45
+16.85	36.08	.55
+17.26	-53.7	33.33
+5.27	10.73	-15.4
+-47.1	-81.89	30.09
+25.75	-34.45	70.81
+
+// Kim H, 2007: True Recognition LC>HC (Retrospective Memory Parametric) 
+// Subjects=11
+41.14	50.81	13.83
+-50.63	18.22	28.81
+-27.27	8.69	59.29
+21.34	13.84	67.53
+-7.19	13.6	67.71
+-27.02	-64.34	55.41
+13.14	-63.73	59.57
+
+// Kim H, 2007: False Recognition HC>LC (Retrospective Memory Parametric) 
+// Subjects=11
+-34.78	24.15	37.19
+37.09	21.87	41.36
+-7.32	34.44	46.31
+-39.04	18.7	17.61
+-30.29	-49.62	37.77
+-3.27	48.65	2.03
+1.19	3.81	27.27
+
+// Kim H, 2007: False Recognition LC> HC (Retrospective Memory Parametric) 
+// Subjects=11
+21.37	-29.06	21.63
+1.54	-63.29	68.49
+-27.4	10.19	14.79
+
+// Kim H, 2009: HCR activity (Retrospective Memory Parametric)   
+// Subjects=12
+-31.32	-38.74	-8.06
+33.42	-19.47	-12.19
+12.61	42.9	-21.37
+-10.17	-48.23	38.46
+-51.27	-69.52	31.18
+
+// Kim H, 2009: LCR activity (Retrospective Memory Parametric)    
+// Subjects=12
+-31.36	56.18	8.32
+-46.3	24.64	16.18
+33.2	11.09	62.11
+14.01	-61.5	67.37
+
+// Kuchinke L, 2013: Significantly greater BOLD signal for high and low confidence (Retrospective Memory Parametric) 
+// Subjects=20
+0	-88	20
+-2	44	-6
+-20	-4	-16
+-46	-68	38
+66	-32	-12
+8	8	-8
+56	-18	-18
+50	-66	10
+-60	-26	-18
+-26	-48	68
+-44	-58	-16
+-50	-6	52
+-28	-40	-28
+60	-48	8
+26	24	-18
+-40	-38	62
+-12	-82	-34
+58	-44	32	
+
+// McCurdy L Y, 2013: meta-d’/d’ for memory (Retrospective Memory Sensitivity)   
+// Subjects=34
+8	-64	24
+
+// Moritz S, 2006: Activation pattern for high-confidence vs. low-confidence responses (Retrospective Memory Parametric)  
+// Subjects=17
+-6	36	-6
+-3	-18	36
+-15	-51	-9
+3	-87	27
+-27	-33	-12
+-51	-66	39
+-36	0	15
+9	45	6
+0	-36	36
+24	-24	-15
+30	-15	-21
+30	21	-21
+30	-6	-6
+66	-27	-9
+27	-39	-30
+
+// Moritz S, 2006: Low-confidence vs. high-confidence (Retrospective Memory Parametric)   
+// Subjects=17
+21	-69	51
+
+// Paul E J, 2015: Uncertainty>correct categorization contrast (Retrospective Judgement-Related)
+// Subjects=29
+-22	54	24
+10	62	22
+54	-46	26
+-58	-60	36
+12	26	58
+-18	14	60
+-32	8	8
+0	22	26
+24	-42	66
+46	-36	0
+-6	-8	38
+
+// Plailly J, 2007: Significant for bimodal familiar compared to unfamiliar (Retrospective Memory Parametric) 
+// Subjects=13
+-6	54	-4
+-21	21	56
+-6	48	39
+-6	36	39
+-3	39	35
+-39	9	35
+-51	30	0
+-51	27	11
+-39	-72	39
+-39	-63	25
+-51	-60	21
+-48	-63	18
+-3	-63	28
+
+// Plailly J, 2007: Bimodal activations evoked by feelings of unfamiliarity (Retrospective Memory Parametric)
+// Subjects=13
+30	24	7
+
+
+// Risius, 2013: High Confidence>Low Confidence (Retrospective Memory Parametric)
+// Subjects=29
+34	-48	-4
+-34	-50	-10
+-28	-42	-6
+-32	-48	-2
+
+// Risius, 2013: Low Confidence>High Confidence (Retrospective Memory Parametric)
+// Subjects=29
+8	-50	-36
+-2	-56	30
+-2	-64	24
+-2	-80	28
+12	-96	10
+12	-96	10
+-44	-52	4
+-52	-62	4
+-52	-42	10
+56	-62	2
+54	-68	14
+62	-54	12
+52	-52	10
+60	-50	0
+58	-36	-8
+-44	22	-18
+-54	12	-8
+62	-50	20
+-60	-30	22
+-52	-34	10
+38	-32	10
+56	-44	20
+58	-60	-6
+-32	-24	-26
+40	0	0
+44	18	0
+36	-12	22
+36	-18	4
+52	-68	26
+30	-72	22
+38	-72	16
+36	-84	30
+-24	-86	10
+-32	-88	14
+-14	-84	22
+30	-86	-16
+-22	-26	-20
+24	-20	-16
+-30	-6	-26
+-22	12	0
+-30	2	-2
+22	14	-2
+-52	12	6
+-34	24	-12
+-52	14	20
+-58	12	16
+-44	40	0
+-46	32	16
+2	36	38
+-24	54	6
+-38	24	40
+-48	-44	34
+-56	-52	34
+-52	-30	24
+-40	-32	10
+-14	-56	-10
+-16	-68	-6
+14	-60	-8
+54	-4	40
+-42	-2	30
+-46	-12	38
+58	-22	42
+54	-16	40
+-6	-44	8
+6	-16	34
+10	-30	32
+-12	-80	12
+-14	-66	4
+-14	-72	8
+-54	-48	50
+-46	-58	46
+-42	-56	48
+32	-42	52
+58	-48	40
+50	-18	12
+52	-10	18
+46	-12	20
+-60	-6	12
+56	-48	30
+50	-66	40
+-46	-58	34
+16	-42	50
+
+// Risius, 2013: Monitoring greater than retrieval (Retrospective Memory Judgement-Related)
+// Subjects=29
+6	-52	20
+12	-58	24
+-6	-54	8
+-12	-50	36
+0	-32	36
+-6	-36	30
+0	40	10
+-2	38	12
+-34	-86	-8
+36	-80	-4
+40	-76	2
+-34	44	16
+-2	56	22
+-48	-70	18
+-40	-54	12
+50	-72	2
+50	-50	4
+
+// Yokoyama O, 2010: Higher activity for confidence rating than brightness-discrimination (Retrospective Memory Judgement-Related)
+// Subjects=25
+-52	-36	18
+-64	-26	20
+-66	-34	36
+14	36	20
+18	52	28
+48	-28	6
+50	8	-8
+
+// Yokoyama O, 2010: Signal change associated with gamma (Retrospective Memory Sensitivity)    
+// Subjects=25
+16	56	28
