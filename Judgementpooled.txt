@@ -28,9 +28,6 @@
 40	-48	50
 36	-58	40
 -32	-60	-40
-
-// Harsay H A, 2017: Aware>Unaware connectivity with insult (Decision Parametric and Judgement-Related)  
-// Subjects=23
 56	-22	44
 -46	-34	56
 50	-38	36
@@ -94,23 +91,17 @@
 -12	-81	-12
 40	51	-42
 
-// Chua E F, 2009 B: Metamemory>Non-metamemory (Memory Judgement-Related)  
+// Chua E F, 2009 B: (Memory Judgement-Related)  
 // Subjects=13
 -60	-30	21
 63	-30	18
 -42	-18	-9
 45	-15	-6
 60	-45	39
-
-// Chua E F, 2009 B: Metamemory>Recognition (Memory Judgement-Related)  
-// Subjects=13
 -36	42	33
 30	60	21
 6	42	3
 -57	-48	42
-
-// Chua E F, 2009 B:FOK>non-metamemory (Prospective Memory Judgement-Related)  
-// Subjects=13
 33	-30	-12
 
 // Paul E J, 2015: Uncertainty>correct categorization contrast (Retrospective Memory Judgement-Related)  

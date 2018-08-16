@@ -1,11 +1,8 @@
 // Reference=MNI
-// Baird B, 2013: Connectivity with aPFC for memory (Retrospective Memory Sensitivity) 
+// Baird B, 2013: (Retrospective Memory Sensitivity) 
 // Subjects=52
 30	-48	36
 8	-48	52
-
-// Baird B, 2013: Differential connectivity with medial and lateral aPFC (Retrospective Memory Sensitivity)  
-// Subjects=52
 34	-28	-16
 18	-22	68
 28	-86	14
@@ -17,7 +14,7 @@
 // Subjects=38
 42	-48	27
 
-// Chua E F, 2004: HC-correct vs. LC-correct(Retrospective Memory Parametric)
+// Chua E F, 2004: (Retrospective Memory Parametric)
 // Subjects=16
 -36	27	-3
 -54	24	24
@@ -26,12 +23,9 @@
 -51	-6	39
 33	-12	-15
 36	-48	-24
-
-// Chua E F, 2004: HC-incorrect vs. LC-incorrect(Retrospective Memory Parametric)
-// Subjects=16
 -42	33	9
 
-// Chua E F, 2006: Conf HC-Correct>Conf LC-Correct (Retrospective Memory Parametric) 
+// Chua E F, 2006: (Retrospective Memory Parametric/Judgement-Related) 
 // Subjects=20
 -30	-39	-15
 36	-30	-18
@@ -41,30 +35,21 @@
 -48	-69	21
 39	-57	12
 27	-39	63
-
-// Chua E F, 2006: Conf HC-Incorrect>Conf LC-Incorrect (Retrospective Memory Parametric)     
-// Subjects=20
 -24	-24	-21
 27	-12	-24
 45	-54	-3
 -9	21	6
 18	33	6
-
-// Chua E F, 2006: Confidence assessment>recognition (Retrospective Memory Judgement-Related)   
-// Subjects=20
 27	63	-6
 -60	-45	27
 15	-51	30
 -12	-81	-12
 40	51	-42
 
-// Chua E F, 2009: ROIs significant for HC in young but not old (Retrospective Memory Parametric)  
+// Chua E F, 2009: (Retrospective Memory Parametric)  
 // Subjects=16
 -27	-18	-21
 39	-18	-21
-
-// Chua E F, 2009: ROIs significant for LC compared to HC (Retrospective Memory Parametric)  
-// Subjects=16
 -39	21	24
 39	36	27
 -33	24	-6
@@ -72,23 +57,17 @@
 0	21	48
 -33	-57	48
 
-// Chua E F, 2009 B: Metamemory>Non-metamemory (Memory Judgement-Related)
+// Chua E F, 2009 B: (Memory Judgement-Related)
 // Subjects=13
 -60	-30	21
 63	-30	18
 -42	-18	-9
 45	-15	-6
 60	-45	39
-
-// Chua E F, 2009 B: Metamemory>Recognition (Memory Judgement-Related)
-// Subjects=13
 -36	42	33
 30	60	21
 6	42	3
 -57	-48	42
-
-// Chua E F, 2009 B:FOK>non-metamemory (Prospective Memory Judgement-Related)
-// Subjects=13
 33	-30	-12
 
 // Do Lam A T A, 2012: JOL predicting memory formation (Prospective Memory Parametric)
@@ -97,7 +76,7 @@
 0	56	-15
 -4	8	30
 
-// Elman JA, 2012: Episodic “definitely”>”likely/maybe” (Prospective Memory Parametric) 
+// Elman JA, 2012: (Prospective Memory Parametric) 
 // Subjects=15
 -46	-50	24
 48	-54	18
@@ -118,9 +97,6 @@
 -10	-58	24
 -2	8	-6
 30	-36	-16
-
-// Elman JA, 2012: Semantic “Definitely”>”Likely/Maybe” (Prospective Memory Parametric)
-// Subjects=15
 -60	-54	34
 -56	-12	10
 -2	42	-14
@@ -137,9 +113,6 @@
 10	18	2
 -52	-38	24
 58	-26	10
-
-// Elman JA, 2012: Episodic Likely/Maybe>Definitely (Prospective Memory Parametric)
-// Subjects=15
 8	28	20
 44	14	2
 32	26	-4
@@ -160,9 +133,6 @@
 -34	-48	48
 30	-48	44
 42	-36	42
-
-// Elman JA, 2012: Semantic Likely/Maybe>Definitely (Prospective Memory Parametric)
-// Subjects=15
 12	28	16
 36	22	-12
 36	46	32
@@ -177,7 +147,7 @@
 4	6	50
 48	-38	44
 
-// Hayes S, 2011: High>Low Confidence (Retrospective Memory Parametric)
+// Hayes S, 2011: (Retrospective Memory Parametric)
 // Subjects=16
 30	-23	-8
 19	0	-15
@@ -192,9 +162,6 @@
 -64	-30	-15
 -19	4	-8
 11	11	-11
-
-// Hayes S, 2011: Low>High Confidence (Retrospective Memory Parametric)
-// Subjects=16
 30	-4	-38
 38	11	-4
 45	19	-4
@@ -216,12 +183,9 @@
 // Subjects=12
 54	30	24
 
-// Hu, 2017: VBM positively correlated with JOL (Prospective Memory Sensitivity)
+// Hu, 2017: (Prospective Memory Sensitivity)
 // Subjects=35
 -40.5	0	15
-
-// Hu, 2017: Seed-based functionally connectivity correlated with JOL (Prospective Memory Sensitivity)
-// Subjects=35
 -12	-66	63
 -18	-48	57
 -27	-21	-30
@@ -317,22 +281,16 @@
 15	0	-6
 -12	0	-6
 
-// Kim H, 2007: HC-TR>LC-TR and LC-FR>HC-FR (Retrospective Memory Sensitivity) 
+// Kim H, 2007: (Retrospective Memory Sensitivity/Parametric) 
 // Subjects=11
 -36.86	-31.13	-21.17
 21.36	-34.92	12.05
 52.78	15.91	-23.81
-
-// Kim H, 2007: LC-TR> HC-TR and HC-FR> LC-FR (Retrospective Memory Sensitivity) 
-// Subjects=11
 -43.28	21.81	17.42
 41.28	24.52	32.28
 -7.35	32.51	32.01
 -30.29	-49.62	37.77
 45.8	-42.99	49.08
-
-// Kim H, 2007: True Recognition HC>LC (Retrospective Memory Parametric) 
-// Subjects=11
 29.73	-27.8	-10.69
 -27.34	-28.48	-13.64
 29.59	3.18	-21.69
@@ -342,9 +300,6 @@
 5.27	10.73	-15.4
 -47.1	-81.89	30.09
 25.75	-34.45	70.81
-
-// Kim H, 2007: True Recognition LC>HC (Retrospective Memory Parametric) 
-// Subjects=11
 41.14	50.81	13.83
 -50.63	18.22	28.81
 -27.27	8.69	59.29
@@ -352,9 +307,6 @@
 -7.19	13.6	67.71
 -27.02	-64.34	55.41
 13.14	-63.73	59.57
-
-// Kim H, 2007: False Recognition HC>LC (Retrospective Memory Parametric) 
-// Subjects=11
 -34.78	24.15	37.19
 37.09	21.87	41.36
 -7.32	34.44	46.31
@@ -362,23 +314,17 @@
 -30.29	-49.62	37.77
 -3.27	48.65	2.03
 1.19	3.81	27.27
-
-// Kim H, 2007: False Recognition LC> HC (Retrospective Memory Parametric) 
-// Subjects=11
 21.37	-29.06	21.63
 1.54	-63.29	68.49
 -27.4	10.19	14.79
 
-// Kim H, 2009: HCR activity (Retrospective Memory Parametric)   
+// Kim H, 2009: (Retrospective Memory Parametric)   
 // Subjects=12
 -31.32	-38.74	-8.06
 33.42	-19.47	-12.19
 12.61	42.9	-21.37
 -10.17	-48.23	38.46
 -51.27	-69.52	31.18
-
-// Kim H, 2009: LCR activity (Retrospective Memory Parametric)    
-// Subjects=12
 -31.36	56.18	8.32
 -46.3	24.64	16.18
 33.2	11.09	62.11
@@ -425,9 +371,6 @@
 -30	-60	36
 -30	-69	51
 -33	-48	36
-
-// Maril A, 2003: K=FOK>DK (Prospective Memory Parametric) 
-// Subjects=17
 -48	39	18
 
 // Maril A, 2005: TOT>all else (Prospective Memory Parametric)  
@@ -437,9 +380,6 @@
 42	18	-3
 -33	54	15
 30	51	18
-
-// Maril A, 2005: TOT=FOK>all else (Prospective Memory Parametric) 
-// Subjects=15
 9	-69	54
 -48	-27	39
 48	-27	48
@@ -465,9 +405,6 @@
 30	-6	-6
 66	-27	-9
 27	-39	-30
-
-// Moritz S, 2006: Low-confidence vs. high-confidence (Retrospective Memory Parametric)   
-// Subjects=17
 21	-69	51
 
 // Paul E J, 2015: Uncertainty>correct categorization contrast (Retrospective Judgement-Related)
@@ -499,9 +436,6 @@
 -51	-60	21
 -48	-63	18
 -3	-63	28
-
-// Plailly J, 2007: Bimodal activations evoked by feelings of unfamiliarity (Retrospective Memory Parametric)
-// Subjects=13
 30	24	7
 
 // Reggev N, 2011: Gray-matter regions modulated by predictive judgements (Prospective Memory Parametric)
@@ -527,15 +461,12 @@
 -20	-68	-20
 -10	-72	-18
 
-// Risius, 2013: High Confidence>Low Confidence (Retrospective Memory Parametric)
+// Risius, 2013: (Retrospective Memory Parametric/Judgement-Related)
 // Subjects=29
 34	-48	-4
 -34	-50	-10
 -28	-42	-6
 -32	-48	-2
-
-// Risius, 2013: Low Confidence>High Confidence (Retrospective Memory Parametric)
-// Subjects=29
 8	-50	-36
 -2	-56	30
 -2	-64	24
@@ -618,9 +549,6 @@
 50	-66	40
 -46	-58	34
 16	-42	50
-
-// Risius, 2013: Monitoring greater than retrieval (Retrospective Memory Judgement-Related)
-// Subjects=29
 6	-52	20
 12	-58	24
 -6	-54	8
@@ -639,7 +567,7 @@
 50	-72	2
 50	-50	4
 
-// Schnyer D M, 2005: Brain regions linearly modulated by 1-4 rating (Prospective Memory Parametric)  
+// Schnyer D M, 2005: Brain regions linearly modulated by 1-4 rating (Prospective Memory Parametric/Sensitivity)  
 // Subjects=15
 0	33	-6
 -12	48	-9
@@ -661,9 +589,6 @@
 -45	-42	54
 42	-24	39
 45	-39	54
-
-// Schnyer D M, 2005: Regions associated with all accurate retrievement judgements (Prospective Memory Sensitivity)
-// Subjects=15
 -4	31	-15
 -38	29	-8
 29	15	-20
@@ -671,7 +596,7 @@
 -20	-15	-12
 -57	-12	-12
 
-// Yang H, 2015: Higher JOL (Prospective Memory Parametric)   
+// Yang H, 2015: Higher JOL (Prospective Memory Parametric/Sensitivity/Judgement-Related)   
 // Subjects=15
 -26	32	54
 -14	66	10
@@ -679,21 +604,12 @@
 -64	-36	-8
 32	-78	46
 -14	42	-4
-
-// Yang H, 2015: Effect of JOL accuracy on subsequent JOL effect (Prospective Memory Sensitivity)
-// Subjects=15
 -14	42	-4
-
-// Yang H, 2015: PPI analysis higher JOL (Prospective Memory Parametric)
-// Subjects=15
 -2	34	-2
 -28	-90	0
 -50	40	0
 -54	14	20
 -28	-90	0
-
-// Yang, H, 2015: Difference between memory and JOL effects (Prospective Memory Judgement-Related)
-// Subjects=15
 0	48	-8
 0	-66	30
 -26	40	40
@@ -702,7 +618,7 @@
 -36	-76	46
 -58	-2	-16
 
-// Yokoyama O, 2010: Higher activity for confidence rating than brightness-discrimination (Retrospective Memory Judgement-Related)
+// Yokoyama O, 2010: Higher activity for confidence rating than brightness-discrimination (Retrospective Memory Judgement-Related/Sensitivity)
 // Subjects=25
 -52	-36	18
 -64	-26	20
@@ -711,7 +627,4 @@
 18	52	28
 48	-28	6
 50	8	-8
-
-// Yokoyama O, 2010: Signal change associated with gamma (Retrospective Memory Sensitivity)    
-// Subjects=25
 16	56	28

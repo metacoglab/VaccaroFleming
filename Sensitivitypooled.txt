@@ -1,13 +1,10 @@
 // Reference=MNI
-// Allen, 2016: VOI Results (Decision Sensitivity)   
+// Allen, 2016: (Decision Sensitivity)   
 // Subjects=48
 37	42	22
 10	-58	8
 9	-64	24
 37	42	22
-
-// Allen, 2016: Whole Brain Results (Decision Sensitivity)   
-// Subjects=48
 -31	-25	-14
 1	-69	11
 -51	-48	2
@@ -42,7 +39,7 @@
 -11	-58	17
 -11	45	17
 
-// Fleming, 2010: GM associated with Aroc (Decision Sensitivity)    
+// Fleming, 2010: (Decision Sensitivity)    
 // Subjects=31
 -20	53	12
 36	39	21
@@ -51,9 +48,6 @@
 -63	-30	10
 51	-33	-21
 -41	-3	-48
-
-// Fleming, 2010: FA associated with Aroc (Decision Sensitivity)  
-// Subjects=31
 2	26	-2
 29	-55	-2
 -32	-67	0
@@ -66,34 +60,25 @@
 -12	54	16
 32	50	7
 
-// Sinnaj I, 2007: Gray matter positive correlation with Mratio (Decision Sensitivity)  
+// Sinnaj I, 2007: (Decision Sensitivity)  
 // Subjects=29
 35	-46	14
 32	15	-15
 11	42	49
 39	62	13
-
-// Sinnaj I, 2007: Gray matter negative correlation with Mratio (Decision Sensitivity)  
-// Subjects=29
 6	-55	9
 -12	-43	58
 -21	-90	16
 
-// Valk, 2016: MC-P:CT (Decision Sensitivity)    
+// Valk, 2016: (Decision Sensitivity)    
 // Subjects=151
 10	18	-21
-
-// Valk, 2016: MC-P:FA (Decision Sensitivity)   
-// Subjects=151
 9	52	9
 
-// Baird B, 2013: Connectivity with aPFC for memory (Retrospective Memory Sensitivity)   
+// Baird B, 2013: (Retrospective Memory Sensitivity)   
 // Subjects=52
 30	-48	36
 8	-48	52
-
-// Baird B, 2013: Differential connectivity with medial and lateral aPFC (Retrospective Memory Sensitivity)    
-// Subjects=52
 34	-28	-16
 18	-22	68
 28	-86	14
@@ -105,12 +90,9 @@
 // Subjects=38
 42	-48	27
 
-// Hu, 2017: VBM positively correlated with JOL (Prospective Memory Sensitivity)  
+// Hu, 2017: (Prospective Memory Sensitivity)  
 // Subjects=35
 -40.5	0	15
-
-// Hu, 2017: Seed-based functionally connectivity correlated with JOL (Prospective Memory Sensitivity)  
-// Subjects=35
 -12	-66	63
 -18	-48	57
 -27	-21	-30
@@ -120,14 +102,11 @@
 39	51	21
 45	-39	51
 
-// Kim H, 2007: HC-TR>LC-TR and LC-FR>HC-FR (Retrospective Memory Sensitivity)   
+// Kim H, 2007:  (Retrospective Memory Sensitivity)   
 // Subjects=11
 -36.86	-31.13	-21.17
 21.36	-34.92	12.05
 52.78	15.91	-23.81
-
-// Kim H, 2007: LC-TR> HC-TR and HC-FR> LC-FR (Retrospective Memory Sensitivity)   
-// Subjects=11
 -43.28	21.81	17.42
 41.28	24.52	32.28
 -7.35	32.51	32.01

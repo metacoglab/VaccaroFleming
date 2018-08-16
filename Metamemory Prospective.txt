@@ -9,7 +9,7 @@
 0	56	-15
 -4	8	30
 
-// Elman JA, 2012: Episodic “definitely”>”likely/maybe” (Prospective Memory Parametric) 
+// Elman JA, 2012:  (Prospective Memory Parametric) 
 // Subjects=15
 -46	-50	24
 48	-54	18
@@ -30,9 +30,6 @@
 -10	-58	24
 -2	8	-6
 30	-36	-16
-
-// Elman JA, 2012: Semantic “Definitely”>”Likely/Maybe” (Prospective Memory Parametric)
-// Subjects=15
 -60	-54	34
 -56	-12	10
 -2	42	-14
@@ -49,9 +46,6 @@
 10	18	2
 -52	-38	24
 58	-26	10
-
-// Elman JA, 2012: Episodic Likely/Maybe>Definitely (Prospective Memory Parametric)
-// Subjects=15
 8	28	20
 44	14	2
 32	26	-4
@@ -72,9 +66,6 @@
 -34	-48	48
 30	-48	44
 42	-36	42
-
-// Elman JA, 2012: Semantic Likely/Maybe>Definitely (Prospective Memory Parametric)
-// Subjects=15
 12	28	16
 36	22	-12
 36	46	32
@@ -89,12 +80,9 @@
 4	6	50
 48	-38	44
 
-// Hu, 2017: VBM positively correlated with JOL (Prospective Memory Sensitivity)
+// Hu, 2017:  (Prospective Memory Sensitivity)
 // Subjects=35
 -40.5	0	15
-
-// Hu, 2017: Seed-based functionally connectivity correlated with JOL (Prospective Memory Sensitivity)
-// Subjects=35
 -12	-66	63
 -18	-48	57
 -27	-21	-30
@@ -197,7 +185,7 @@
 51	-24	-12
 51	15	-3
 
-// Maril A, 2003: K>FOK>DK (Prospective Memory Parametric) 
+// Maril A, 2003:(Prospective Memory Parametric) 
 // Subjects=17
 -6	27	39
 -51	24	30
@@ -210,21 +198,15 @@
 -30	-60	36
 -30	-69	51
 -33	-48	36
-
-// Maril A, 2003: K=FOK>DK (Prospective Memory Parametric) 
-// Subjects=17
 -48	39	18
 
-// Maril A, 2005: TOT>all else (Prospective Memory Parametric)  
+// Maril A, 2005: (Prospective Memory Parametric)  
 // Subjects=15
 -6	18	36
 42	36	33
 42	18	-3
 -33	54	15
 30	51	18
-
-// Maril A, 2005: TOT=FOK>all else (Prospective Memory Parametric) 
-// Subjects=15
 9	-69	54
 -48	-27	39
 48	-27	48
@@ -252,7 +234,7 @@
 -20	-68	-20
 -10	-72	-18
 
-// Schnyer D M, 2005: Brain regions linearly modulated by 1-4 rating (Prospective Memory Parametric)  
+// Schnyer D M, 2005: Brain regions linearly modulated by 1-4 rating (Prospective Memory Parametric/Sensitivity)  
 // Subjects=15
 0	33	-6
 -12	48	-9
@@ -274,9 +256,6 @@
 -45	-42	54
 42	-24	39
 45	-39	54
-
-// Schnyer D M, 2005: Regions associated with all accurate retrievement judgements (Prospective Memory Sensitivity)
-// Subjects=15
 -4	31	-15
 -38	29	-8
 29	15	-20
@@ -284,7 +263,7 @@
 -20	-15	-12
 -57	-12	-12
 
-// Yang H, 2015: Higher JOL (Prospective Memory Parametric)   
+// Yang H, 2015: (Prospective Memory Parametric/Sensitivity/Judgement-Related)   
 // Subjects=15
 -26	32	54
 -14	66	10
@@ -292,21 +271,12 @@
 -64	-36	-8
 32	-78	46
 -14	42	-4
-
-// Yang H, 2015: Effect of JOL accuracy on subsequent JOL effect (Prospective Memory Sensitivity)
-// Subjects=15
 -14	42	-4
-
-// Yang H, 2015: PPI analysis higher JOL (Prospective Memory Parametric)
-// Subjects=15
 -2	34	-2
 -28	-90	0
 -50	40	0
 -54	14	20
 -28	-90	0
-
-// Yang, H, 2015: Difference between memory and JOL effects (Prospective Memory Judgement-Related)
-// Subjects=15
 0	48	-8
 0	-66	30
 -26	40	40
