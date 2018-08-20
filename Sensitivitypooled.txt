@@ -16,10 +16,19 @@
 8	42	42
 12	-12	6
 -24	14	8
+30	-48	36
+8	-48	52
+34	-28	-16
+18	-22	68
+28	-86	14
+-46	-72	-8
+-26	-38	-16
+-46	-12	22
 
 // Baird, 2015: White matter microstructure associated with metacognitive ability in perception (Decision Sensitivity)   
 // Subjects=38
 12	30	33
+42	-48	27
 
 // Barttfeld, 2013: Regression to type-II performance, top 15 ROIs (Decision Sensitivity)   
 // Subjects=25
@@ -74,21 +83,6 @@
 // Subjects=151
 10	18	-21
 9	52	9
-
-// Baird B, 2013: (Retrospective Memory Sensitivity)   
-// Subjects=52
-30	-48	36
-8	-48	52
-34	-28	-16
-18	-22	68
-28	-86	14
--46	-72	-8
--26	-38	-16
--46	-12	22
-
-// Baird, 2015: White matter microstructure associated with metacognitive ability in memory (Retrospective Memory Sensitivity)  
-// Subjects=38
-42	-48	27
 
 // Hu, 2017: (Prospective Memory Sensitivity)  
 // Subjects=35
