@@ -64,10 +64,11 @@
 35	-52	-15
 -18	-52	28
 
-// McCurdy L Y, 2013: meta-d/d for vision (Decision Sensitivity)    
+// McCurdy L Y, 2013: meta-d/d (Decision and Retrospective Memory Sensitivity)    
 // Subjects=34
 -12	54	16
 32	50	7
+8	-64	24
 
 // Sinnaj I, 2007: (Decision Sensitivity)  
 // Subjects=29
@@ -106,10 +107,6 @@
 -7.35	32.51	32.01
 -30.29	-49.62	37.77
 45.8	-42.99	49.08
-
-// McCurdy L Y, 2013: meta-d/d for memory (Retrospective Memory Sensitivity)     
-// Subjects=34
-8	-64	24
 
 // Schnyer D M, 2005: Regions associated with all accurate retrievement judgements (Prospective Memory Sensitivity)  
 // Subjects=15
