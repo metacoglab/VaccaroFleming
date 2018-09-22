@@ -1,10 +1,6 @@
 // Reference=MNI
 // Allen, 2016:(Decision Sensitivity) 
 // Subjects=48
-37	42	22
-10	-58	8
-9	-64	24
-37	42	22
 -31	-25	-14
 1	-69	11
 -51	-48	2
@@ -29,24 +25,6 @@
 // Subjects=38
 12	30	33
 42	-48	27
-
-// Barttfeld, 2013: Regression to type-II performance, top 15 ROIs (Decision Sensitivity) 
-// Subjects=25
--11	45	17
-9	51	16
--42	7	36
-42	48	-3
-54	-44	43
--47	-12	36
--55	-44	30
-44	-52	47
--35	-46	48
--5	-52	17
--52	28	17
-40	36	29
--54	-9	23
--11	-58	17
--11	45	17
 
 // Chen, 2013: Brain regions exhibiting significant activation in association with decision confidence process (Decision Parametric)  
 // Subjects=20
@@ -212,6 +190,8 @@
 
 // Fleming, 2010:(Decision Sensitivity)  
 // Subjects=31
+26	66	16
+8	-57	19
 -20	53	12
 36	39	21
 33	50	9
@@ -219,7 +199,7 @@
 -63	-30	10
 51	-33	-21
 -41	-3	-48
-2	26	-2
+2	27	-2
 29	-55	-2
 -32	-67	0
 -32	-55	14
@@ -259,11 +239,6 @@
 40	-48	50
 36	-58	40
 -32	-60	40
-
-// Harsay H A, 2017: Aware>Unaware (Decision Parametric and Judgement-Related) 
-// Subjects=23
-34	18	-1250	8	-454	-26	44-46	-28	5010	-24	10-8	-22	88	-30	-82	26	16-2	26	164	20	36-4	32	326	8	56-6	6	604	-68	4252	12	20-48	12	2220	-4	70-28	-26	70-50	-44	5040	-48	5036	-58	40-32	-60	-40
-56	-22	44-46	-34	5650	-38	36-40	-40	30
 
 // Hayes S, 2011: (Retrospective Memory Parametric)
 // Subjects=16
@@ -409,18 +384,6 @@
 6	35	43
 20	57	30
 21	50	37
-
-// Hu, 2017: (Prospective Memory Sensitivity)
-// Subjects=35
--40.5	0	15
--12	-66	63
--18	-48	57
--27	-21	-30
--48	-27	-27
--30	-33	-36
--45	-36	42
-39	51	21
-45	-39	51
 
 // Huijbers, 2016: TOT > (REC + FOK + UNK)(Prospective Memory Parametric)
 // Subjects=73

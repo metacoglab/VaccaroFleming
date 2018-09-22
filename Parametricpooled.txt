@@ -60,35 +60,6 @@
 36	-58	40
 -32	-60	40
 
-// Harsay H A, 2017: (Decision Parametric and Judgement-Related)   
-// Subjects=23
-34	18	-12
-50	8	-4
-54	-26	44
--46	-28	50
-10	-24	10
--8	-22	8
-8	-30	-8
-2	26	16
--2	26	16
-4	20	36
--4	32	32
-6	8	56
--6	6	60
-4	-68	42
-52	12	20
--48	12	22
-20	-4	70
--28	-26	70
--50	-44	50
-40	-48	50
-36	-58	40
--32	-60	-40
-56	-22	44
--46	-34	56
-50	-38	36
--40	-40	30
-
 // Hebart M N, 2016: Brain regions where activity is related to confidence (Decision Parametric)    
 // Subjects=18
 -9	9	-3
